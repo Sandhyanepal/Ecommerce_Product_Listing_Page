@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Blue Denim Jacket",
+    "price": 79.99,
+    "description": "A timeless denim jacket with a comfortable fit and durable construction.",
+    "category": "Clothing",
+    "image": "/images/denim.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Leather Crossbody Bag",
+    "price": 129.99,
+    "description": "Stylish leather crossbody bag with adjustable strap and multiple compartments.",
+    "category": "Accessories",
+    "image": "/images/crossbag.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 199.99,
+    "description": "Premium noise-cancelling headphones with 30-hour battery life.",
+    "category": "Electronics",
+    "image": "/images/headphones.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "description": "Double-walled insulated bottle that keeps drinks cold for 24 hours.",
+    "category": "Accessories",
+    "image": "/images/bottle.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smart Fitness Tracker",
+    "price": 149.99,
+    "description": "Track your activity, sleep, and heart rate with this sleek fitness band.",
+    "category": "Electronics",
+    "image": "/images/fitness-tracker.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cotton Graphic T-Shirt",
+    "price": 29.99,
+    "description": "Soft, breathable cotton t-shirt with unique graphic design.",
+    "category": "Clothing",
+    "image": "/images/tshirt.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ceramic Coffee Mug",
+    "price": 19.99,
+    "description": "Handcrafted ceramic mug with ergonomic handle and 12oz capacity.",
+    "category": "Home",
+    "image": "/images/coffee-mug.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Wool Winter Beanie",
+    "price": 34.99,
+    "description": "Warm and cozy beanie made from premium wool blend.",
+    "category": "Clothing",
+    "image": "/images/Beanie.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Minimalist Wall Clock",
+    "price": 59.99,
+    "description": "Modern wall clock with silent mechanism and sleek design.",
+    "category": "Home",
+    "image": "/images/clock.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Portable Bluetooth Speaker",
+    "price": 89.99,
+    "description": "Compact speaker with powerful sound and waterproof design.",
+    "category": "Electronics",
+    "image": "/images/Speaker.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Leather Wallet",
+    "price": 49.99,
+    "description": "Genuine leather wallet with RFID protection and multiple card slots.",
+    "category": "Accessories",
+    "image": "/images/wallet.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Scented Soy Candle",
+    "price": 32.99,
+    "description": "Hand-poured soy candle with relaxing lavender scent.",
+    "category": "Home",
+    "image": "/images/candles.jpg"
+  }
+]
